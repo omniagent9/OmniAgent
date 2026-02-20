@@ -6,8 +6,6 @@
 
 > Decentralized AI Agent Network for the Future of Automation
 
-![Banner](https://via.placeholder.com/1200x400?text=OmniAgent)
-
 ---
 
 ## 🌐 Overview
