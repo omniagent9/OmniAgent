@@ -99,9 +99,8 @@ Use Cases:
 
 ## 🔗 Links
 
-- 🌐 Website: https://yourwebsite.com  
-- 🐦 Twitter: https://x.com/omniagent_  
-- 💬 Telegram: https://t.me/yourgroup  
+- 🌐 Website: https://www.omniagent.in/
+- 🐦 Twitter: https://x.com/omniagent_   
 
 ---
 
