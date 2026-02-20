@@ -4,6 +4,10 @@
 
 # 🚀 OmniAgent
 
+## 🔥 Vision
+
+OmniAgent aims to become the leading decentralized AI agent ecosystem, where anyone can create, own, and monetize intelligent agents powered by blockchain and automation.
+
 > Decentralized AI Agent Network for the Future of Automation
 
 ---
