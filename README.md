@@ -2,6 +2,8 @@
   <img src="logo.jpg" width="120">
 </p>
 
+![Banner](roadmap.jpg)
+
 # 🚀 OmniAgent
 
 > Decentralized AI Agent Network for the Future of Automation
