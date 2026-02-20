@@ -1,12 +1,13 @@
-## 🌐 Live Demo
-👉 https://omniagent9.github.io/OmniAgent/
-
 <p align="center">
   <img src="logo.jpg" width="120">
 </p>
 
 # 🚀 OmniAgent
 
+## 🌐 Live Demo
+👉 https://omniagent9.github.io/OmniAgent/
+
+---
 ## 🔥 Vision
 
 OmniAgent aims to become the leading decentralized AI agent ecosystem, where anyone can create, own, and monetize intelligent agents powered by blockchain and automation.
