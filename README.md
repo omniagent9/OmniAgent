@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.jpg" width="120">
+</p>
+
 # 🚀 OmniAgent
 
 > Decentralized AI Agent Network for the Future of Automation
