@@ -2,8 +2,6 @@
   <img src="logo.jpg" width="120">
 </p>
 
-![Banner](roadmap.jpg)
-
 # 🚀 OmniAgent
 
 > Decentralized AI Agent Network for the Future of Automation
@@ -44,6 +42,8 @@ OmniAgent introduces a new concept where AI agents are not only intelligent, but
 - 💰 Trading decision support  
 
 ---
+
+![Banner](roadmap.jpg)
 
 ## 🗺️ Roadmap
 
