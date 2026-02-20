@@ -111,7 +111,7 @@ Use Cases:
 ## 🔗 Links
 
 - 🌐 Website: https://omniagent9.github.io/OmniAgent/
-- 🐦 Twitter: [@OmniAgent_](https://x.com/OmniAgent_)
+- 🐦 Twitter: [@Omni_Agent_](https://x.com/Omni_Agent_)
 
 ---
 
