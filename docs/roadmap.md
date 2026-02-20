@@ -41,4 +41,3 @@
 - Pair agents with tokens  
 - Integrated with $OMAGENT
 
-- ![Roadmap](roadmap.jpg)
