@@ -105,13 +105,14 @@ Use Cases:
 - 🌐 Website: https://www.omniagent.in/
 - 🐦 Twitter: https://x.com/omniagent_ 
 
+---
 
-  ## 📚 Documentation
+## 📚 Documentation
 
-- 📄 [Overview](docs/overview.md)
-- 🤖 [Agents](docs/agents.md)
-- 🪙 [Tokenomics](docs/tokenomics.md)
-- 🗺️ [Roadmap](docs/roadmap.md)
+- [Whitepaper](docs/whitepaper.md)  
+- [Agents](docs/agents.md)  
+- [Tokenomics](docs/tokenomics.md)  
+- [Architecture](docs/architecture.md)
 
 ## 🛠️ Tech Stack
 
